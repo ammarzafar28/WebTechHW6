@@ -1,0 +1,68 @@
+/* CSS Document */
+.nav {
+		list-style-type: none;
+		margin: 0;
+		padding: 5px;
+		overflow: hidden;
+		border: 1px solid #e7e7e7;
+		background-color: #f3f3f3;
+		width: 100;
+		display: inline-block;
+		border-color: black; 
+}
+	
+.menu {
+	float: left;
+	border: 1px solid #bbb;
+}
+
+.menu a {
+	display: block;
+	color: #666;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background-color: lightblue;
+}
+
+.list {
+	margin: auto;
+	text-align: center;
+}
+
+.name {
+	margin: auto;
+}
+
+.schedule {
+  	display: table;
+  	clear: both;
+	
+}
+
+.column {
+	width: 50%;
+	padding: 10px;
+}
+
+.row {
+  	display: table;
+}
+
+.google {
+	border: ridge
+}
+
+.fullstack {
+	border: ridge
+}
+
+.mobile {
+	border: ridge
+}
+
+
+
